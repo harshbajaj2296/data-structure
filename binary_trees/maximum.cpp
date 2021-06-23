@@ -64,6 +64,8 @@ int main()
 
 	cout << "Maximum element is "
 		<< find_max_iterative(root) << endl; 
+		cout << "Maximum element is "
+		<< findMax(root) << endl; 
 
 	return 0; 
 } 
